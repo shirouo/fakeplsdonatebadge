@@ -1,3 +1,5 @@
+--// this is a fake badge for a exploit.
+
 wait(1.25)
 
 game.StarterGui:SetCore("SendNotification", {
