@@ -1,4 +1,4 @@
-wait(0.5)
+wait(1.25)
 
 game.StarterGui:SetCore("SendNotification", {
 Title = "Badge Awarded";
